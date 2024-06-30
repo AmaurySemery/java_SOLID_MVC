@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import com.openclassrooms.cardgame.model.Deck;
-import com.openclassrooms.cardgame.model.Player;
-import com.openclassrooms.cardgame.model.PlayingCard;
+import CardGame.model.Deck;
+import CardGame.model.Player;
+import CardGame.model.PlayingCard;
 
 class View {
 	public void something() {
