@@ -1,3 +1,5 @@
+package cardgame.model;
+
 import java.util.List;
 
 public class Player {

@@ -1,3 +1,5 @@
+package cardgame.model;
+
 public class PlayingCard {
 	private Rank rank;
 	private Suit suit;

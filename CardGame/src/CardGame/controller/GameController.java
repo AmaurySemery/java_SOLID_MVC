@@ -1,9 +1,11 @@
+package cardgame.controller;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import CardGame.model.Deck;
-import CardGame.model.Player;
-import CardGame.model.PlayingCard;
+import cardgame.model.Deck;
+import cardgame.model.Player;
+import cardgame.model.PlayingCard;
 
 class View {
 	public void something() {
